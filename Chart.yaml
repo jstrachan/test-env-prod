@@ -1,0 +1,7 @@
+name: production-environment
+home: https://jstrachan/test-env-prod
+version: 0.0.1-DEV
+description: production environment
+maintainers:
+  - name: fabric8 Team
+    email: fabric8@googlegroups.com
